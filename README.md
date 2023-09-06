@@ -20,6 +20,7 @@ Here's a glimpse of my technology stack:
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
 
 FrameWorks:
+
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
