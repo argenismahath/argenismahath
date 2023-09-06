@@ -20,6 +20,8 @@ Here's a glimpse of my technology stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
+
 
 <h3>
 FrameWorks:
@@ -29,7 +31,6 @@ FrameWorks:
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
 
 
 
