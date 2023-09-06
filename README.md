@@ -5,7 +5,7 @@
 
 ![Texto alternativo de la imagen](https://github.com/argenismahath/argenismahath/blob/main/_167cadbf-c846-4112-9440-61817b205e1f.jpeg)
 
-Mi stack de tecnología incluye las siguientes herramientas:
+Here's a glimpse of my technology stack:
 
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
