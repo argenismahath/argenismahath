@@ -12,13 +12,16 @@
   
 Here's a glimpse of my technology stack:
 </h3>
-
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net)
-![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
+ Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+
+FrameWorks:
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
 
 
