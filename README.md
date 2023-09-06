@@ -12,7 +12,9 @@
   
 Here's a glimpse of my technology stack:
 </h3>
+
  Languages:
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
