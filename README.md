@@ -1,6 +1,7 @@
 <center>
   Hi there 👋, this is Oleider Full Stack developer 
 </center>
+<br/>
 
 ![Texto alternativo de la imagen](https://github.com/argenismahath/argenismahath/blob/main/_167cadbf-c846-4112-9440-61817b205e1f.jpeg)
 <!--
