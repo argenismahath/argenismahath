@@ -42,6 +42,8 @@ I'm now eagerly seeking new opportunities to collaborate with innovative teams a
 
 If you're interested in working together or would like to discuss potential collaborations, please feel free to reach out. Let's turn your web ideas into reality!
 
+
+[Contact Me](oleidercontact@gmail.com) | [GitHub Profile](https://github.com/argenismahath)
 <!--
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
